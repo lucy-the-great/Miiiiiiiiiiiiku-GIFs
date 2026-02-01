@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background-color: bisque;
+}
+
+h1 {
+    color: chocolate;
+    font-family: 'Playpen Sans';
+    font-size: 41px;
+}
+
+p {
+    color: chocolate;
+    font-family: 'Playpen Sans';
+    font-size: 22px;
+}
+
+img {
+    width: 250px;
+}
+a {
+    margin: 10px;
+}
+.highlight1 {
+    background-color: #ff0;
+}
+
+.highlight2 {
+    background-color: aqua;
+}
+
+#navbar {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+}
